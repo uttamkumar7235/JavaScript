@@ -17,3 +17,16 @@
     height: 25rem;
     margin: 5px;
 }
+
+.blue {
+    color: blue;
+    text-decoration: dashed;
+}
+
+.size {
+    font-size: 50px;
+}
+
+.box {
+    background-color: yellow;
+}
