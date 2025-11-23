@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-size: 30px;
+}
+
+button {
+  font-size: 25px;
+}
+
+div {
+  height: 300px;
+  width: 400px;
+  border: 1px solid black;
+  margin: 20px auto;
+  padding-top: 50px;
+  font-size: 30px;
+}
