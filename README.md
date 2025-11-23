@@ -16,12 +16,12 @@ This repository contains all the concepts, notes, examples, and practice files I
 
 ## 🎯 Why This Repo Exists
 
--To track my JavaScript learning journey
--To organize concepts cleanly
--To practice consistently
--To build a strong base for DSA and projects
--To revise anytime easily
+- To track my JavaScript learning journey
+- To organize concepts cleanly
+- To practice consistently
+- To build a strong base for DSA and projects
+- To revise anytime easily
 
 ## 🤝 Contributions
 
--This is a personal learning repository, but suggestions and ideas are always welcome!
+- This is a personal learning repository, but suggestions and ideas are always welcome!
